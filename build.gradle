@@ -1,0 +1,39 @@
+buildscript {
+    ext.kotlin_version = '1.3.+'
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+}
+
+apply plugin: 'java'
+
+
+ext {
+    libDir = 'translations'
+}
+
+dependencies {
+}
+
+task copyPluginFiles(dependsOn: jar) {
+    doLast {
+        println ">>> Installing $project.name"
+        copy {
+            into(new File(rootProject.pluginsDir, project.name))
+            from(fileTree(".")) {
+                include "plugin.xml"
+		include "translations/**"
+            }
+        }
+        println "<<< $project.name"
+    }
+}
+
+task copyPlugin(dependsOn: ['copyPluginFiles']) {
+    doFirst {
+        println "Copying $project.name to $rootProject.pluginsDir"
+    }
+}
