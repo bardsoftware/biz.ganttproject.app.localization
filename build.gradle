@@ -15,9 +15,23 @@ ext {
     libDir = 'translations'
 }
 
-dependencies {
+configurations {
+    exported
 }
 
+dependencies {
+    exported configurations.runtimeClasspath
+}
+
+
+
+sourceSets {
+    main {
+        resources {
+            srcDirs "translations"
+        }
+    }
+}
 task copyPluginFiles(dependsOn: jar) {
     doLast {
         println ">>> Installing $project.name"
