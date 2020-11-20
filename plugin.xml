@@ -11,10 +11,17 @@
             <export name="*">
             </export>
         </library>
+        <library name="resources/">
+            <export name="*">
+            </export>
+        </library>
     </runtime>
     <requires>
         <import plugin="net.sourceforge.ganttproject"/>
     </requires>
+    <extension point="net.sourceforge.ganttproject.calendar">
+        <bundle path="calendars" pattern="i18n.*.calendar"/>
+    </extension>
     <extension point="net.sourceforge.ganttproject.l10n">
         <bundle path="i18n"/>
     </extension>
