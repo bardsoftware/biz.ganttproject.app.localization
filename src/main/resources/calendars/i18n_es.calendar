@@ -31,4 +31,6 @@
 	<date year="2020" month="11" date="02"><![CDATA[All Saints Day (in lieu)]]></date>
 	<date year="2020" month="12" date="07"><![CDATA[Constitution Day (in lieu)]]></date>
 
+	<date year="2021" month="4" date="1" type="HOLIDAY"><![CDATA[Maundy Thursday]]></date>
+	<date year="2021" month="4" date="2" type="HOLIDAY"><![CDATA[Good Friday]]></date>
 </calendar>
