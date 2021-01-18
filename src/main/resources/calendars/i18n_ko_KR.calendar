@@ -12,7 +12,7 @@
 	<date year="" month="10" date="03" type="HOLIDAY"><![CDATA[개천절]]></date>	<!-- National Foundation Day -->
 	<date year="" month="10" date="09" type="HOLIDAY"><![CDATA[한글날]]></date>	<!-- Hangul Day -->
 	<date year="" month="12" date="25" type="HOLIDAY"><![CDATA[크리스마스]]></date>	<!-- Christmas Day -->
-	
+
 	<date year="2013" month="02" date="09" type="HOLIDAY"><![CDATA[설날]]></date>	<!-- Korean New Year -->
 	<date year="2013" month="02" date="10" type="HOLIDAY"><![CDATA[설날]]></date>	<!-- Korean New Year -->
 	<date year="2013" month="02" date="11" type="HOLIDAY"><![CDATA[설날]]></date>	<!-- Korean New Year -->
@@ -101,4 +101,4 @@
     <date year="2022" month="09" date="09" type="HOLIDAY"><![CDATA[추석]]></date>	<!-- Harvest Festival Holiday : Day before Chuseok -->
     <date year="2022" month="09" date="10" type="HOLIDAY"><![CDATA[추석]]></date>	<!-- Harvest Festival : Chuseok -->
     <date year="2022" month="09" date="11" type="HOLIDAY"><![CDATA[추석]]></date>	<!-- Harvest Festival Holiday : Day after Chuseok -->
-</calendar >
+</calendar>

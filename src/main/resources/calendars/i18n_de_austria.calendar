@@ -23,17 +23,17 @@
 	<date year="2015" month="05" date="14" color="#00cc66"><![CDATA[Christi Himmelfahrt (Ascension)]]></date>
 	<date year="2016" month="05" date="05" color="#00cc66"><![CDATA[Christi Himmelfahrt (Ascension)]]></date>
 	<date year="2017" month="05" date="25" color="#00cc66"><![CDATA[Christi Himmelfahrt (Ascension)]]></date>
-	
+
 	<date year="2014" month="06" date="09" color="#00cc66"><![CDATA[Pfingstmontag (Whitmonday)]]></date>
 	<date year="2015" month="05" date="25" color="#00cc66"><![CDATA[Pfingstmontag (Whitmonday)]]></date>
 	<date year="2016" month="05" date="16" color="#00cc66"><![CDATA[Pfingstmontag (Whitmonday)]]></date>
 	<date year="2017" month="06" date="05" color="#00cc66"><![CDATA[Pfingstmontag (Whitmonday)]]></date>
-	
+
 	<date year="2014" month="06" date="19" color="#00cc66"><![CDATA[Fronleichnam (Corpus Christi)]]></date>
 	<date year="2015" month="06" date="04" color="#00cc66"><![CDATA[Fronleichnam (Corpus Christi)]]></date>
 	<date year="2016" month="05" date="26" color="#00cc66"><![CDATA[Fronleichnam (Corpus Christi)]]></date>
 	<date year="2017" month="06" date="15" color="#00cc66"><![CDATA[Fronleichnam (Corpus Christi)]]></date>
-	
+
 	<date year="" month="08" date="15" color="#00cc66"><![CDATA[Mariä Himmelfahrt (Assumption)]]></date>
 
 	<date year="" month="10" date="26" color="#00cc66"><![CDATA[Nationalfeiertag (National Day)]]></date>
@@ -44,4 +44,4 @@
 	<date year="" month="12" date="26" color="#00cc66"><![CDATA[Stefanitag (St.Stephens)]]></date>
 	<date year="" month="12" date="31" color="#00cc66"><![CDATA[Silvester (New Year's Eve)]]></date>
 
-</calendar >
+</calendar>

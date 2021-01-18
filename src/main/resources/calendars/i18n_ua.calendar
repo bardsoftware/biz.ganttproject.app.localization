@@ -14,7 +14,7 @@ Calendar contributed by Andriy Ilechko
         <date year="" month="6" date="28" type="HOLIDAY"><![CDATA[День Конституції України]]></date>
 	<date year="" month="8" date="24" type="HOLIDAY"><![CDATA[День незалежності України]]></date>
         <date year="" month="10" date="14" type="HOLIDAY"><![CDATA[День захисника України]]></date>
-		
+
         <date year="2017" month="1" date="1" type="HOLIDAY"><![CDATA[Новий рік]]></date>
         <date year="2017" month="1" date="2" type="HOLIDAY"><![CDATA[Перенесений вихідний 01/01/2017]]></date>
         <date year="2017" month="1" date="7" type="HOLIDAY"><![CDATA[Різдво Христове]]></date>
@@ -31,7 +31,7 @@ Calendar contributed by Andriy Ilechko
 	<date year="2017" month="8" date="24" type="HOLIDAY"><![CDATA[День незалежності України]]></date>
         <date year="2017" month="10" date="14" type="HOLIDAY"><![CDATA[День захисника України]]></date>
 	<date year="2017" month="10" date="16" type="HOLIDAY"><![CDATA[Перенесений вихідний 14/10/2017]]></date>
-</calendar >
+</calendar>
 
 
 
