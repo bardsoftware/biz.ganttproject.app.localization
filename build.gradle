@@ -38,6 +38,10 @@ task copyPluginFiles(dependsOn: jar) {
                 include "plugin.xml"
                 include "translations/**"
             }
+            rename { filename -> filename == "i18n_sr_SP.properties" ? "i18n_sr.properties" : filename }
+        }
+        copy {
+            into(new File(rootProject.pluginsDir, project.name))
             from(fileTree("src/main/")) {
                 include "resources/calendars/**"
             }
