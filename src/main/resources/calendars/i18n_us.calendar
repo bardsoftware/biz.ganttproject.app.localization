@@ -15,8 +15,9 @@ http://www.officeholidays.com/countries/usa/index.php
     <date year="2022" month="2" date="21" type="HOLIDAY"><![CDATA[Presidents' Day]]></date>
     <date year="2022" month="5" date="8" type="NEUTRAL"><![CDATA[Mother's Day]]></date>
     <date year="2022" month="5" date="30" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
-    <!-- Juneteenth became a federal holiday in 2021 ->
-    <!-- https://edition.cnn.com/politics/live-news/biden-signs-juneteenth-bill/index.html -->
+    <!-- Juneteenth became a federal holiday in 2021
+    https://edition.cnn.com/politics/live-news/biden-signs-juneteenth-bill/index.html
+    -->
     <date year="2022" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth]]></date>
     <date year="2022" month="6" date="20" type="HOLIDAY"><![CDATA[Juneteenth (in lieu)]]></date>
     <date year="2022" month="9" date="5" type="HOLIDAY"><![CDATA[Labor Day]]></date>
