@@ -6,7 +6,7 @@
 
       <date year="" month="1" date="1"><![CDATA[Nieuwjaarsdag]]></date>
       <date year="" month="4" date="27"><![CDATA[Koningsdag]]></date>
-      <date year="" month="5" date="5"><![CDATA[Bevrijdingsdag]]></date>
+      <date year="" month="5" date="5" type="NEUTRAL"><![CDATA[Bevrijdingsdag]]></date>
       <date year="" month="12" date="25"><![CDATA[Eerste Kerstdag]]></date>
       <date year="" month="12" date="26"><![CDATA[Tweede Kerstdag]]></date>
 
