@@ -1,5 +1,5 @@
 skip_untranslated_strings: false
-escape_quotes: 1
 files:
   - source: /translations/i18n.properties
     translation: /translations/i18n_%locale_with_underscore%.properties
+    escape_quotes: 1
