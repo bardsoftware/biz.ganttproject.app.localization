@@ -7,8 +7,6 @@ buildscript {
     }
 }
 
-apply plugin: 'java'
-
 ext {
     libDir = 'translations'
 }
@@ -29,11 +27,14 @@ sourceSets {
         }
     }
 }
-task copyPluginFiles(dependsOn: jar) {
+
+def pluginDistDir = new File(rootProject.pluginsDir, project.name)
+
+task copyPlugin(dependsOn: assemble) {
     doLast {
-        println ">>> Installing $project.name"
+        println ">>> Installing $project.name into $pluginDistDir"
         copy {
-            into(new File(rootProject.pluginsDir, project.name))
+            into(pluginDistDir)
             from(fileTree(".")) {
                 include "plugin.xml"
                 include "translations/**"
@@ -41,17 +42,11 @@ task copyPluginFiles(dependsOn: jar) {
             rename { filename -> filename == "i18n_sr_SP.properties" ? "i18n_sr.properties" : filename }
         }
         copy {
-            into(new File(rootProject.pluginsDir, project.name))
+            into(pluginDistDir)
             from(fileTree("src/main/")) {
                 include "resources/calendars/**"
             }
         }
         println "<<< $project.name"
-    }
-}
-
-task copyPlugin(dependsOn: ['copyPluginFiles']) {
-    doFirst {
-        println "Copying $project.name to $rootProject.pluginsDir"
     }
 }
