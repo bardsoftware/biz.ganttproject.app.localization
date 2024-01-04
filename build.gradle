@@ -16,7 +16,6 @@ configurations {
 }
 
 dependencies {
-    exported configurations.runtimeClasspath
 }
 
 
