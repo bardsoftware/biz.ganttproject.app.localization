@@ -5,6 +5,7 @@
 <!-- http://www.timeanddate.com/holidays/canada/ -->
 	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
 	<date year="" month="07" date="01"><![CDATA[Canada Day]]></date>
+	<date year="" month="09" date="30" type="HOLIDAY"><![CDATA[National Day for Truth and Reconciliation]]></date>
 	<date year="" month="11" date="11"><![CDATA[Remembrance Day]]></date>
 	<date year="" month="12" date="25"><![CDATA[Christmas]]></date>
 
