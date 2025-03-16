@@ -36,7 +36,6 @@ task copyPlugin(dependsOn: assemble) {
             into(pluginDistDir)
             from(fileTree(".")) {
                 include "plugin.xml"
-                include "translations/**"
             }
             rename { filename -> filename == "i18n_sr_SP.properties" ? "i18n_sr.properties" : filename }
         }
@@ -44,6 +43,12 @@ task copyPlugin(dependsOn: assemble) {
             into(pluginDistDir)
             from(fileTree("src/main/")) {
                 include "resources/calendars/**"
+            }
+        }
+        copy {
+            into("$pluginDistDir/resources")
+            from(fileTree("./")) {
+                include "translations/**"
             }
         }
         println "<<< $project.name"

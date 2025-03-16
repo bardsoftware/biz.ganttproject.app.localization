@@ -7,10 +7,6 @@
         provider-name="">
 
     <runtime>
-        <library name="translations/">
-            <export name="*">
-            </export>
-        </library>
         <library name="resources/">
             <export name="*">
             </export>
@@ -23,6 +19,6 @@
         <bundle path="calendars" pattern="i18n.*.calendar"/>
     </extension>
     <extension point="net.sourceforge.ganttproject.l10n">
-        <bundle path="i18n"/>
+        <bundle path="translations"/>
     </extension>
 </plugin>
