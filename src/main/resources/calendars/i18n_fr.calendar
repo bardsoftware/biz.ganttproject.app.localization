@@ -69,4 +69,19 @@
     <date year="2025" month="5" date="29" type="HOLIDAY"><![CDATA[Ascension]]></date>
     <date year="2025" month="6" date="9" type="HOLIDAY"><![CDATA[Lundi de Pentecôte]]></date>
 
+    <!-- 2026 -->
+    <date year="2026" month="4" date="6" type="HOLIDAY"><![CDATA[Lundi de Pâques]]></date>
+    <date year="2026" month="5" date="14" type="HOLIDAY"><![CDATA[Ascension]]></date>
+    <date year="2026" month="5" date="25" type="HOLIDAY"><![CDATA[Lundi de Pentecôte]]></date>
+
+    <!-- 2027 -->
+    <date year="2027" month="3" date="29" type="HOLIDAY"><![CDATA[Lundi de Pâques]]></date>
+    <date year="2027" month="5" date="6" type="HOLIDAY"><![CDATA[Ascension]]></date>
+    <date year="2027" month="5" date="17" type="HOLIDAY"><![CDATA[Lundi de Pentecôte]]></date>
+
+    <!-- 2028 -->
+    <date year="2028" month="4" date="17" type="HOLIDAY"><![CDATA[Lundi de Pâques]]></date>
+    <date year="2028" month="5" date="25" type="HOLIDAY"><![CDATA[Ascension]]></date>
+    <date year="2028" month="6" date="5" type="HOLIDAY"><![CDATA[Lundi de Pentecôte]]></date>
+
 </calendar>
