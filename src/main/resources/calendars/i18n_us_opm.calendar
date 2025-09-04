@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar id="us.opm" name="United States OPM Holidays 2024-2030" type="country">
+    <!-- Data sources
+    https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays
+    -->
+    <date year="2024" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2024" month="1" date="15" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2024" month="2" date="19" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2024" month="5" date="27" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2024" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2024" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2024" month="9" date="2" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2024" month="10" date="14" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2024" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2024" month="11" date="28" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2024" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2025" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2025" month="1" date="20" type="HOLIDAY"><![CDATA[Inauguration Day]]></date>
+    <date year="2025" month="2" date="17" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2025" month="5" date="26" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2025" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2025" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2025" month="9" date="1" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2025" month="10" date="13" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2025" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2025" month="11" date="27" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2025" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2026" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2026" month="1" date="19" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2026" month="2" date="16" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2026" month="5" date="25" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2026" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2026" month="7" date="3" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2026" month="9" date="7" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2026" month="10" date="12" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2026" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2026" month="11" date="26" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2026" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2027" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2027" month="1" date="18" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2027" month="2" date="15" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2027" month="5" date="31" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2027" month="5" date="18" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2027" month="7" date="5" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2027" month="9" date="6" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2027" month="10" date="11" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2027" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2027" month="11" date="25" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2027" month="12" date="24" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2027" month="12" date="31" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2028" month="1" date="17" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2028" month="2" date="21" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2028" month="5" date="29" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2028" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2028" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2028" month="9" date="4" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2028" month="10" date="9" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2028" month="11" date="10" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2028" month="11" date="23" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2028" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2029" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2029" month="1" date="15" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2029" month="2" date="19" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2029" month="5" date="28" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2029" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2029" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2029" month="9" date="3" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2029" month="10" date="8" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2029" month="11" date="12" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2029" month="11" date="22" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2029" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+    <date year="2030" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+    <date year="2030" month="1" date="21" type="HOLIDAY"><![CDATA[Birthday of Martin Luther King, Jr.]]></date>
+    <date year="2030" month="2" date="18" type="HOLIDAY"><![CDATA[Washington's Birthday]]></date>
+    <date year="2030" month="5" date="27" type="HOLIDAY"><![CDATA[Memorial Day]]></date>
+    <date year="2030" month="6" date="19" type="HOLIDAY"><![CDATA[Juneteenth National Independence Day]]></date>
+    <date year="2030" month="7" date="4" type="HOLIDAY"><![CDATA[Independence Day]]></date>
+    <date year="2030" month="9" date="2" type="HOLIDAY"><![CDATA[Labor Day]]></date>
+    <date year="2030" month="10" date="14" type="HOLIDAY"><![CDATA[Columbus Day]]></date>
+    <date year="2030" month="11" date="11" type="HOLIDAY"><![CDATA[Veterans Day]]></date>
+    <date year="2030" month="11" date="28" type="HOLIDAY"><![CDATA[Thanksgiving Day]]></date>
+    <date year="2030" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+</calendar>
