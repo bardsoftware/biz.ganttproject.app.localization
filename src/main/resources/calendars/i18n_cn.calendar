@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="cn" name="Chinese Holidays 2019-2025" type="country">
+<calendar id="cn" name="Chinese Holidays 2019-2026" type="country">
 <!-- http://www.officeholidays.com/countries/china/ -->
 	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
 	<date year="" month="05" date="01"><![CDATA[Labor Day]]></date>
 	<date year="" month="10" date="1"><![CDATA[National Day]]></date>
+
+	<date year="2026" month="01" date="2"><![CDATA[Day after New Year's Day Holiday]]></date>
+	<date year="2026" month="01" date="4" type="WORKING_DAY"><![CDATA[Compensation of 2026-01-02]]></date>
+	<date year="2026" month="02" date="14" type="WORKING_DAY"><![CDATA[Compensation of 2026-02-20]]></date>
+	<date year="2026" month="02" date="16"><![CDATA[Chinese New Year Holiday]]></date>
+	<date year="2025" month="02" date="17"><![CDATA[Chinese New Year]]></date>
+	<date year="2026" month="02" date="18"><![CDATA[Chinese New Year Holiday]]></date>
+	<date year="2026" month="02" date="19"><![CDATA[Chinese New Year Holiday]]></date>
+	<date year="2026" month="02" date="20"><![CDATA[Chinese New Year Holiday]]></date>
+	<date year="2026" month="02" date="32"><![CDATA[Chinese New Year Holiday]]></date>
+	<date year="2026" month="02" date="28" type="WORKING_DAY"><![CDATA[Compensation of 2026-02-23]]></date>
+	<date year="2026" month="04" date="05"><![CDATA[Ching Ming Festival]]></date>
+	<date year="2026" month="04" date="06"><![CDATA[Ching Ming Festival (in lieu)]]></date>
+	<date year="2026" month="05" date="04"><![CDATA[Labor Day Holiday]]></date>
+	<date year="2026" month="05" date="05"><![CDATA[Labor Day Holiday]]></date>
+	<date year="2026" month="05" date="09" type="WORKING_DAY"><![CDATA[Compensation of 2026-05-05]]></date>
+	<date year="2026" month="06" date="19"><![CDATA[Dragon Boat Festival]]></date>
+	<date year="2026" month="09" date="20" type="WORKING_DAY"><![CDATA[Compensation of 2026-10-06]]></date>
+	<date year="2026" month="09" date="25"><![CDATA[Moon Festival]]></date>
+	<date year="2026" month="10" date="02"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="03"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="04"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="05"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="06"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="07"><![CDATA[National Day Holiday]]></date>
+	<date year="2026" month="10" date="10" type="WORKING_DAY"><![CDATA[Compensation of 2026-10-07]]></date>
 
 	<date year="2025" month="01" date="26" type="WORKING_DAY"><![CDATA[Compensation of 2025-02-03]]></date>
 	<date year="2025" month="01" date="28"><![CDATA[Chinese New Year Holiday]]></date>
