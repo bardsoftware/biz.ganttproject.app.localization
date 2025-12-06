@@ -38,6 +38,8 @@
 	<date year="2024" month="04" date="01"><![CDATA[Easter Monday]]></date>
 	<date year="2025" month="04" date="21"><![CDATA[Easter Monday]]></date>
 	<date year="2026" month="04" date="06"><![CDATA[Easter Monday]]></date>
+	<!-- Introduced in 2026 -->
+	<date year="2026" month="10" date="04"><![CDATA[Feast of St. Francis of Assisi]]></date>
 	<date year="2027" month="03" date="29"><![CDATA[Easter Monday]]></date>
 	<date year="2028" month="04" date="17"><![CDATA[Easter Monday]]></date>
 	<date year="2029" month="04" date="02"><![CDATA[Easter Monday]]></date>
