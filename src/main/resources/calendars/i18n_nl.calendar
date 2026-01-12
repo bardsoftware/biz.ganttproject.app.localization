@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="NL" name="Netherlands Holidays 2018-2025" type="country">
+<calendar id="NL" name="Netherlands Holidays 2018-2026" type="country">
       <!-- http://www.officeholidays.com/countries/netherlands -->
       <!-- http://calendar.retira.eu/public-holidays/netherlands/2012/ -->
       <!-- https://www.vakantiedagennederland.nl/2025/ -->
 
       <date year="" month="1" date="1"><![CDATA[Nieuwjaarsdag]]></date>
       <date year="" month="4" date="27"><![CDATA[Koningsdag]]></date>
-      <date year="" month="5" date="5" type="NEUTRAL"><![CDATA[Bevrijdingsdag]]></date>
+      <date year="" month="5" date="5"><![CDATA[Bevrijdingsdag]]></date>
       <date year="" month="12" date="25"><![CDATA[Eerste Kerstdag]]></date>
       <date year="" month="12" date="26"><![CDATA[Tweede Kerstdag]]></date>
+
+    <date year="2026" month="4" date="6"><![CDATA[Tweede Paasdag]]></date>
+    <date year="2026" month="5" date="14"><![CDATA[Hemelvaartsdag]]></date>
+    <date year="2026" month="5" date="24"><![CDATA[Eerste Pinksterdag]]></date>
+    <date year="2026" month="5" date="25"><![CDATA[Tweede Pinksterdag]]></date>
 
     <date year="2025" month="4" date="22"><![CDATA[Tweede Paasdag]]></date>
     <date year="2025" month="5" date="30"><![CDATA[Hemelvaartsdag]]></date>
