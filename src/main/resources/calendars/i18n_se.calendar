@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar id="se" name="Sweden Holidays 2026-2030" type="country">
+    <!-- Data sources
+    Contributed by a user on
+https://help.ganttproject.biz/t/swedish-holidays-2026-2030/12403
+    -->
+
+    <date year="2030" month="01" date="01"><![CDATA[Nyårsdagen]]></date>
+    <date year="2030" month="01" date="06"><![CDATA[Trettondagen]]></date>
+    <date year="2030" month="04" date="19"><![CDATA[Långfredagen]]></date>
+    <date year="2030" month="04" date="21"><![CDATA[Påskdagen]]></date>
+    <date year="2030" month="04" date="22"><![CDATA[Annandag påsk]]></date>
+    <date year="2030" month="05" date="01"><![CDATA[Första maj]]></date>
+    <date year="2030" month="05" date="30"><![CDATA[Kristi himmelsfärd]]></date>
+    <date year="2030" month="06" date="06"><![CDATA[Sveriges nationaldag]]></date>
+    <date year="2030" month="06" date="09"><![CDATA[Pingstdagen]]></date>
+    <date year="2030" month="06" date="21"><![CDATA[Midsommarafton]]></date>
+    <date year="2030" month="06" date="22"><![CDATA[Midsommardagen]]></date>
+    <date year="2030" month="11" date="02"><![CDATA[Alla helgons dag]]></date>
+    <date year="2030" month="12" date="24"><![CDATA[Julafton]]></date>
+    <date year="2030" month="12" date="25"><![CDATA[Juldagen]]></date>
+    <date year="2030" month="12" date="26"><![CDATA[Annandag jul]]></date>
+    <date year="2030" month="12" date="31"><![CDATA[Nyårsafton]]></date>
+
+    <date year="2029" month="01" date="01"><![CDATA[Nyårsdagen]]></date>
+    <date year="2029" month="01" date="06"><![CDATA[Trettondagen]]></date>
+    <date year="2029" month="03" date="30"><![CDATA[Långfredagen]]></date>
+    <date year="2029" month="04" date="01"><![CDATA[Påskdagen]]></date>
+    <date year="2029" month="04" date="02"><![CDATA[Annandag påsk]]></date>
+    <date year="2029" month="05" date="01"><![CDATA[Första maj]]></date>
+    <date year="2029" month="05" date="10"><![CDATA[Kristi himmelsfärd]]></date>
+    <date year="2029" month="05" date="20"><![CDATA[Pingstdagen]]></date>
+    <date year="2029" month="06" date="06"><![CDATA[Sveriges nationaldag]]></date>
+    <date year="2029" month="06" date="22"><![CDATA[Midsommarafton]]></date>
+    <date year="2029" month="06" date="23"><![CDATA[Midsommardagen]]></date>
+    <date year="2029" month="11" date="03"><![CDATA[Alla helgons dag]]></date>
+    <date year="2029" month="12" date="24"><![CDATA[Julafton]]></date>
+    <date year="2029" month="12" date="25"><![CDATA[Juldagen]]></date>
+    <date year="2029" month="12" date="26"><![CDATA[Annandag jul]]></date>
+    <date year="2029" month="12" date="31"><![CDATA[Nyårsafton]]></date>
+
+    <date year="2028" month="01" date="01"><![CDATA[Nyårsdagen]]></date>
+    <date year="2028" month="01" date="06"><![CDATA[Trettondagen]]></date>
+    <date year="2028" month="04" date="14"><![CDATA[Långfredagen]]></date>
+    <date year="2028" month="04" date="16"><![CDATA[Påskdagen]]></date>
+    <date year="2028" month="04" date="17"><![CDATA[Annandag påsk]]></date>
+    <date year="2028" month="05" date="01"><![CDATA[Första maj]]></date>
+    <date year="2028" month="05" date="25"><![CDATA[Kristi himmelsfärd]]></date>
+    <date year="2028" month="06" date="04"><![CDATA[Pingstdagen]]></date>
+    <date year="2028" month="06" date="06"><![CDATA[Sveriges nationaldag]]></date>
+    <date year="2028" month="06" date="23"><![CDATA[Midsommarafton]]></date>
+    <date year="2028" month="06" date="24"><![CDATA[Midsommardagen]]></date>
+    <date year="2028" month="11" date="04"><![CDATA[Alla helgons dag]]></date>
+    <date year="2028" month="12" date="24"><![CDATA[Julafton]]></date>
+    <date year="2028" month="12" date="25"><![CDATA[Juldagen]]></date>
+    <date year="2028" month="12" date="26"><![CDATA[Annandag jul]]></date>
+    <date year="2028" month="12" date="31"><![CDATA[Nyårsafton]]></date>
+
+    <date year="2027" month="01" date="01"><![CDATA[Nyårsdagen]]></date>
+    <date year="2027" month="01" date="06"><![CDATA[Trettondagen]]></date>
+    <date year="2027" month="03" date="26"><![CDATA[Långfredagen]]></date>
+    <date year="2027" month="03" date="28"><![CDATA[Påskdagen]]></date>
+    <date year="2027" month="03" date="29"><![CDATA[Annandag påsk]]></date>
+    <date year="2027" month="05" date="01"><![CDATA[Första maj]]></date>
+    <date year="2027" month="05" date="06"><![CDATA[Kristi himmelsfärd]]></date>
+    <date year="2027" month="05" date="16"><![CDATA[Pingstdagen]]></date>
+    <date year="2027" month="06" date="06"><![CDATA[Sveriges nationaldag]]></date>
+    <date year="2027" month="06" date="25"><![CDATA[Midsommarafton]]></date>
+    <date year="2027" month="06" date="26"><![CDATA[Midsommardagen]]></date>
+    <date year="2027" month="11" date="06"><![CDATA[Alla helgons dag]]></date>
+    <date year="2027" month="12" date="24"><![CDATA[Julafton]]></date>
+    <date year="2027" month="12" date="25"><![CDATA[Juldagen]]></date>
+    <date year="2027" month="12" date="26"><![CDATA[Annandag jul]]></date>
+    <date year="2027" month="12" date="31"><![CDATA[Nyårsafton]]></date>
+
+    <date year="2026" month="01" date="01"><![CDATA[Nyårsdagen]]></date>
+    <date year="2026" month="01" date="06"><![CDATA[Trettondagen]]></date>
+    <date year="2026" month="04" date="03"><![CDATA[Långfredagen]]></date>
+    <date year="2026" month="04" date="05"><![CDATA[Påskdagen]]></date>
+    <date year="2026" month="04" date="06"><![CDATA[Annandag påsk]]></date>
+    <date year="2026" month="05" date="01"><![CDATA[Första maj]]></date>
+    <date year="2026" month="05" date="14"><![CDATA[Kristi himmelsfärd]]></date>
+    <date year="2026" month="05" date="24"><![CDATA[Pingstdagen]]></date>
+    <date year="2026" month="06" date="06"><![CDATA[Sveriges nationaldag]]></date>
+    <date year="2026" month="06" date="19"><![CDATA[Midsommarafton]]></date>
+    <date year="2026" month="06" date="20"><![CDATA[Midsommardagen]]></date>
+    <date year="2026" month="10" date="31"><![CDATA[Alla helgons dag]]></date>
+    <date year="2026" month="12" date="24"><![CDATA[Julafton]]></date>
+    <date year="2026" month="12" date="25"><![CDATA[Juldagen]]></date>
+    <date year="2026" month="12" date="26"><![CDATA[Annandag jul]]></date>
+    <date year="2026" month="12" date="31"><![CDATA[Nyårsafton]]></date>
+</calendar>
