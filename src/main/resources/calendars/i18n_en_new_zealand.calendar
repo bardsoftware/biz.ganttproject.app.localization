@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="nz" name="New Zealand National Holidays 2022-2025" type="country">
+<calendar id="nz" name="New Zealand National Holidays 2022-2025, 2027" type="country">
 <!-- r -->
 	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
 	<date year="" month="01" date="02"><![CDATA[Day after New Year's Day]]></date>
@@ -8,6 +8,17 @@
 	<date year="" month="12" date="25"><![CDATA[Christmas]]></date>
 	<date year="" month="12" date="26"><![CDATA[Boxing Day]]></date>
 
+
+	<date year="2027" month="01" date="04"><![CDATA[Day after New Year's Day - Observed]]></date>
+	<date year="2027" month="02" date="08"><![CDATA[WaitangiDay - Observed]]></date>
+	<date year="2027" month="03" date="26"><![CDATA[Good Friday]]></date>
+	<date year="2027" month="03" date="29"><![CDATA[Easter Monday]]></date>
+	<date year="2027" month="04" date="26"><![CDATA[Anzac Day - Observed]]></date>
+	<date year="2027" month="06" date="07"><![CDATA[King's Birthday]]></date>
+	<date year="2027" month="06" date="25"><![CDATA[Matariki]]></date>
+	<date year="2027" month="10" date="25"><![CDATA[Labour Day]]></date>
+	<date year="2027" month="12" date="27"><![CDATA[Christmas Day - Observed]]></date>
+	<date year="2027" month="12" date="28"><![CDATA[Boxing Day - Observed]]></date>
 
 	<date year="2025" month="04" date="18"><![CDATA[Good Friday]]></date>
 	<date year="2025" month="04" date="21"><![CDATA[Easter Monday]]></date>

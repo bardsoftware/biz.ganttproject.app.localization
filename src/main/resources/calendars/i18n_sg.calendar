@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="sg" name="Singapore Holidays 2026" type="country">
+<calendar id="sg" name="Singapore Holidays 2026-2027" type="country">
     <!-- Data sources
 https://www.officeholidays.com/countries/singapore
     -->
@@ -8,6 +8,15 @@ https://www.officeholidays.com/countries/singapore
     <date year="" month="5" date="1"><![CDATA[Labour Day]]></date>
     <date year="" month="8" date="9"><![CDATA[National Day]]></date>
     <date year="" month="12" date="25"><![CDATA[Christmas]]></date>
+
+    <date year="2027" month="2" date="6"><![CDATA[Chinese New Year]]></date>
+    <date year="2027" month="2" date="7"><![CDATA[Chinese New Year]]></date>
+    <date year="2027" month="2" date="8"><![CDATA[Chinese New Year (in lieu)]]></date>
+    <date year="2027" month="3" date="10"><![CDATA[Hari Raya Puasa]]></date>
+    <date year="2027" month="3" date="26"><![CDATA[Good Friday]]></date>
+    <date year="2027" month="5" date="17"><![CDATA[Hari Raya Haji]]></date>
+    <date year="2027" month="5" date="20"><![CDATA[Vesak Day]]></date>
+    <date year="2027" month="10" date="28"><![CDATA[Deepavali]]></date>
 
     <date year="2026" month="2" date="17"><![CDATA[Chinese New Year]]></date>
     <date year="2026" month="2" date="18"><![CDATA[Chinese New Year]]></date>
