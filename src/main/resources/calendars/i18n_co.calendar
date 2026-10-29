@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="co" name="Columbia Holidays 2019-2026" type="country">
+<calendar id="co" name="Columbia Holidays 2019-2027" type="country">
     <!-- Data sources
     https://www.officeholidays.com/countries/colombia/2019.php
     https://www.timeanddate.com/holidays/colombia/2019
@@ -10,6 +10,20 @@
     <date year="" month="8" date="7"><![CDATA[Battle of Boyacá]]></date>
     <date year="" month="12" date="8"><![CDATA[Immaculate Conception]]></date>
     <date year="" month="12" date="25"><![CDATA[Christmas]]></date>
+
+    <date year="2027" month="1" date="11"><![CDATA[Epiphany]]></date>
+    <date year="2027" month="3" date="22"><![CDATA[Saint Joseph's Day]]></date>
+    <date year="2027" month="3" date="25"><![CDATA[Maundy Thursday]]></date>
+    <date year="2027" month="3" date="26"><![CDATA[Good Friday]]></date>
+    <date year="2027" month="5" date="10"><![CDATA[Ascension]]></date>
+    <date year="2027" month="5" date="31"><![CDATA[Corpus Christi]]></date>
+    <date year="2027" month="6" date="7"><![CDATA[Sacred Heart]]></date>
+    <date year="2027" month="7" date="5"><![CDATA[Saint Peter and Saint Paul]]></date>
+    <date year="2027" month="7" date="12"><![CDATA[Our Lady of the Rosary of Chiquinquirá]]></date>
+    <date year="2027" month="8" date="16"><![CDATA[Assumption Day]]></date>
+    <date year="2027" month="10" date="18"><![CDATA[Columbus Day]]></date>
+    <date year="2027" month="11" date="1"><![CDATA[All Saint's Day Holiday]]></date>
+    <date year="2027" month="11" date="15"><![CDATA[Independence of Cartagena]]></date>
 
     <date year="2026" month="1" date="12"><![CDATA[Epiphany]]></date>
     <date year="2026" month="3" date="23"><![CDATA[Saint Joseph's Day]]></date>
