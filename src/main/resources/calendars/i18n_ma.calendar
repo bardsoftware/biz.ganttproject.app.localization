@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="ma" name="Morocco Holidays 2025-2026" type="country">
+<calendar id="ma" name="Morocco Holidays 2025-2027" type="country">
 <!-- https://www.officeholidays.com/countries/morocco -->
 
 	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
@@ -13,6 +13,12 @@
 	<date year="" month="10" date="31"><![CDATA[Unity Day]]></date>
 	<date year="" month="11" date="06"><![CDATA[Green March Day]]></date>
 	<date year="" month="11" date="18"><![CDATA[Independence Day]]></date>
+
+	<date year="2027" month="3" date="9"><![CDATA[Eid Sghir]]></date>
+	<date year="2027" month="3" date="10"><![CDATA[Eid Sghir Holiday]]></date>
+	<date year="2027" month="5" date="16"><![CDATA[Eid al-Adha]]></date>
+	<date year="2027" month="6" date="6"><![CDATA[Fatih Muharram]]></date>
+	<date year="2027" month="8" date="15"><![CDATA[Eid Al Mawled]]></date>
 
 	<date year="2026" month="3" date="20"><![CDATA[Eid Sghir]]></date>
 	<date year="2026" month="3" date="21"><![CDATA[Eid Sghir Holiday]]></date>

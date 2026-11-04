@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<calendar id="ca" name="Canada Mostly Nationwide Holidays 2016-2025" type="country">
+<calendar id="ca" name="Canada Mostly Nationwide Holidays 2016-2025, 2027" type="country">
 <!-- http://www.officeholidays.com/countries/canada/ -->
 <!-- http://www.statutoryholidays.com/2016.php -->
 <!-- http://www.timeanddate.com/holidays/canada/ -->
@@ -96,6 +96,11 @@
 	<date year="2025" month="5" date="19"><![CDATA[Victoria Day]]></date>
 	<date year="2025" month="9" date="1"><![CDATA[Labour Day]]></date>
 	<date year="2025" month="10" date="13"><![CDATA[Thanksgiving]]></date>
+
+    <date year="2027" month="3" date="26"><![CDATA[Good Friday]]></date>
+    <date year="2027" month="5" date="24"><![CDATA[Victoria Day]]></date>
+    <date year="2027" month="9" date="6"><![CDATA[Labour Day]]></date>
+    <date year="2027" month="10" date="11"><![CDATA[Thanksgiving]]></date>
 
 </calendar>
 
