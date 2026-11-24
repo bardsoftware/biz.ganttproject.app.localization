@@ -1,3 +1,5 @@
+<!-- Data sources ... -->
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Algeria Public Holidays Calendar (2027-2030)
   ============================================
@@ -27,7 +29,6 @@
     according to Algerian Law No. 23-10.
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <calendar id="dz" name="Algeria Holidays" type="country">
 
 	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
