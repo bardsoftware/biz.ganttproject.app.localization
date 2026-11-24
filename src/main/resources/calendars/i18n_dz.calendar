@@ -1,3 +1,32 @@
+<!--
+  Algeria Public Holidays Calendar (2027-2030)
+  ============================================
+
+  DATA SOURCES:
+  - 2027: https://www.timeanddate.com/holidays/algeria/2027
+  - 2028: https://www.timeanddate.com/holidays/algeria/2028
+  - 2029: https://www.timeanddate.com/holidays/algeria/2029
+  - 2030: https://www.timeanddate.com/holidays/algeria/2030
+
+  LEGAL REFERENCES:
+  - Algerian Law No. 23-10 of June 26, 2023 (amending Law No. 63-278).
+  - Official Journal of the Algerian Republic, Issue No. 43 (June 27, 2023).
+  - Official PDF (Arabic): https://www.joradp.dz/FTP/JO-arabe/2023/A2023043.pdf
+  - Official PDF (French): https://www.joradp.dz/FTP/jo-francais/2023/F2023043.pdf
+
+  CONTRIBUTOR:
+  - Ayad Seghiri
+  - GitHub: https://github.com/ayadseghairi
+  - Email : seghiri.ayad@univ-khenchela.dz
+
+  NOTES:
+  - Islamic holiday dates are estimated based on astronomical calculations.
+  - Actual dates may vary by one day depending on the official
+    moon sighting announcement by the Ministry of Religious Affairs in Algeria.
+  - Eid al-Fitr and Eid al-Adha are three-day public holidays
+    according to Algerian Law No. 23-10.
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <calendar id="dz" name="Algeria Holidays" type="country">
 
