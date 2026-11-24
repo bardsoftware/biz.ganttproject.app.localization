@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar id="dz" name="Algeria Holidays" type="country">
+
+	<date year="" month="01" date="01"><![CDATA[New Year's Day]]></date>
+	<date year="" month="01" date="12"><![CDATA[Yennayer (Amazigh New Year)]]></date>
+	<date year="" month="05" date="01"><![CDATA[Labour Day]]></date>
+	<date year="" month="07" date="05"><![CDATA[Independence Day]]></date>
+	<date year="" month="11" date="01"><![CDATA[Revolution Day]]></date>
+
+	<!-- Islamic holidays: dates change every year, add per year -->
+
+</calendar>
