@@ -7,6 +7,6 @@
 	<date year="" month="07" date="05"><![CDATA[Independence Day]]></date>
 	<date year="" month="11" date="01"><![CDATA[Revolution Day]]></date>
 
-	<!-- Islamic holidays: dates change every year, add per year -->
+	<!-- Islamic holidays: dates change every year, It is calculated according to the Hijri calendar and cannot be added. -->
 
 </calendar>
